@@ -1,0 +1,15 @@
+body {
+    background-color: #F5F5DC; /* Cream color */
+  }
+  
+  button {
+    background-color: #C9B799; /* Khaki color */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #B7A57A; /* Darker khaki color on hover */
+  }
